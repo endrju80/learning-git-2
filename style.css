@@ -1,6 +1,6 @@
 .container {
 	max-width: auto;
-	height: 500px;
+	height: 600px;
 	display: inline-block;
 	background-color: silver;
 	border-radius: 5px;
@@ -10,15 +10,34 @@ h1 {
 	font-size: 40px;
 	color: red;
 	text-align: center;
+	padding: 5px;
 
 }
 
 h2 {
 	font-size: 30px;
 	text-align: center;
+	padding: 5px;
 }
 
 p {
 	margin:10px;
 	text-align: justify;
+	padding: 5px;
+}
+
+h3 {
+	margin:10px;
+	padding: 5px;
+}
+.first-part {
+
+}
+
+.sec-part {
+	margin-top: 50px;
+}
+
+.third-part {
+	margin-top: 50px;
 }
