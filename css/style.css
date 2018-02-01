@@ -12,6 +12,9 @@
     margin-right: auto;
     border-radius: 5px; }
 
+.flex {
+  display: flex; }
+
 h1 {
   font-size: 40px;
   color: red;
@@ -32,12 +35,9 @@ h3 {
   margin: 10px;
   padding: 5px; }
 
-.sec-part {
-  margin-top: 50px; }
-
-.third-part {
-  margin-top: 50px;
-  margin-bottom: 50px; }
+.first-part, .sec-part, .third-part {
+  padding: 10px;
+  text-align: justify; }
 
 footer {
   border-radius: 5px;
